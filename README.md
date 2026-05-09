@@ -1,17 +1,36 @@
-#  🐱Filiphe Natannael
+<table>
+  <tr>
+    <td>
 
+# 🐱 Filiphe Natannael
 
 Me chamo Filiphe Natannael. Atualmente, estou cursando Ciência da Computação na UFMA.
 
-   <p align="left">
-      <a href="https://github.com/Natannaels?tab=followers">
-         <img alt="seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Natannaels?color=898989&labelColor=6666&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
-      <a href="https://github.com/Natannaels?tab=repositories&sort=stargazers">
-         <img alt="repositorio" title="Meus repositórios" src="https://custom-icon-badges.demolab.com/badge/-%20Repositórios-gree?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <a href="https://www.linkedin.com/in/filiphe-salgado-76755320a/">
-         <img alt="linkedin" title="Perfil do Linkedin" 
-         src="https://custom-icon-badges.demolab.com/badge/-%20Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin-in"/></a>
-   </p>
+<p align="left">
+   <a href="https://github.com/Natannaels?tab=followers">
+      <img alt="seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Natannaels?color=898989&labelColor=6666&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+   </a>
+
+   <a href="https://github.com/Natannaels?tab=repositories&sort=stargazers">
+      <img alt="repositorio" title="Meus repositórios" src="https://custom-icon-badges.demolab.com/badge/-%20Repositórios-gree?style=for-the-badge&logoColor=white&logo=repo"/>
+   </a>
+
+   <a href="https://www.linkedin.com/in/filiphe-salgado-76755320a/">
+      <img alt="linkedin" title="Perfil do Linkedin" 
+      src="https://custom-icon-badges.demolab.com/badge/-%20Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin-in"/>
+   </a>
+</p>
+
+   </td>
+
+   <td>
+      <img 
+        src="https://github.com/Natannaels/Natannaels/blob/main/giphy.gif" 
+        width="250px"
+      />
+   </td>
+  </tr>
+</table>
 
 ---
 
