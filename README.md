@@ -32,8 +32,6 @@ Me chamo Filiphe Natannael. Atualmente, estou cursando Ciência da Computação 
   </tr>
 </table>
 
----
-
 ## 🛠️Tecnologias & Ferramentas
 
 <img 
@@ -95,16 +93,21 @@ Me chamo Filiphe Natannael. Atualmente, estou cursando Ciência da Computação 
 <br/>
 <br/>
 
----
 
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Natannaels&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-    width="420"
-  />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=natannaels&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6&locale=pt-br"
-    width="390"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Natannaels&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide_border=true"
+        width="420"
+      />
+    </td>
+
+   <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=natannaels&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6&locale=pt-br&hide_border=true"
+        width="390"
+      />
+    </td>
+  </tr>
+</table>
